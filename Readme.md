@@ -1,4 +1,5 @@
-S C O R E   S T A T I S T I C S  -  A plugin for MuseScore - version 0.2 - 10.04.2010
+S C O R E   S T A T I S T I C S  -  A plugin for MuseScore - version 0.3 - 02.06.2012
+----
 
 'Score Statistics' is a MuseScore plugin which lists some statistics about the
 current scores; data can also be saved in a .CSV file.

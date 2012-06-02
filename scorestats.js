@@ -5,7 +5,7 @@
 //  " S C O R E  S T A T I S T I C S " plugin
 //
 //	Collects and lists some statistics about the current score.
-//	Version 0.2 - Date 10.04.2010
+//	Version 0.3 - Date 02.06.2012
 //
 //	By Maurizio M. Gavioli, 2010.
 //
@@ -107,7 +107,7 @@ function run()
 	// for each cursor step of each voice of each staff
 	for (staff = 0; staff < curScore.staves; ++staff)
 	{	cursor.staff = staff;
-		for (voice = 0; voice < 3; voice++)
+		for (voice = 0; voice < 4; voice++)
 		{	cursor.voice = voice;
 			cursor.rewind();  // set cursor to first chord/rest
 			while (!cursor.eos())
