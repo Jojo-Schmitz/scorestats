@@ -94,6 +94,9 @@ function run()
 	{	QMessageBox.critical(null, "Unsupported version", "This version of MuseScore is not suppored.\nPlease upgrade to a more recent version.");
 		return;
 	}
+	// no score open (MuseScore 2.0+, can't happen earlier)
+	if (typeof curScore === 'undefined')
+		return;
 
 	// score totals (not implemented in some older MuseScore versions)
 	if(curScore.parts != undefined)
