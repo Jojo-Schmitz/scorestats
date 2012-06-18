@@ -5,9 +5,10 @@
 //  " S C O R E  S T A T I S T I C S " plugin
 //
 //	Collects and lists some statistics about the current score.
-//	Version 0.3 - Date 02.06.2012
+//	Version 0.4 - Date 18.06.2012
 //
 //	By Maurizio M. Gavioli, 2010.
+//	By Joachim Schmitz, 2012
 //
 //  MuseScore: Copyright (C)2008 Werner Schweer and others
 //
