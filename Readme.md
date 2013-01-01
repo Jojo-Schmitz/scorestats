@@ -58,7 +58,7 @@ Distribution of note and, when available, rest lenghts are listed last, to keep
 all the fixed parts together at the beginning.
 
 
-## KNWON LIMITATIONS
+## KNOWN LIMITATIONS
 
 'Score Statistics' has the following limitations:
 
